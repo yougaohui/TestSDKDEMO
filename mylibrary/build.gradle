@@ -3,6 +3,9 @@ plugins {
     id 'maven-publish'
 }
 
+group = 'com.github.yougaohui'
+version = '1.0'
+
 android {
     namespace 'com.example.mylibrary'
     compileSdk 34
